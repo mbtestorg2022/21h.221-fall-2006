@@ -26,13 +26,66 @@ Chronologically, the class begins in the late nineteenth century, with two found
 Grading and Requirements
 ------------------------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Collaborative Research Project | 10% |
-| Writing Exercises | 10% |
-| Class Participation | 20% |
-| Short Paper (3-5 Pages) | 20% |
-| Research Paper (11-14 Pages) | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Collaborative Research Project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Paper (3-5 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Paper (11-14 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The success of this class depends on the active participation of all students. Class **participation** (20%) represents a substantial portion of the grade, and will be evaluated in terms of preparation, participation in large and small group discussion, active listening, collaboration, and overall contributions to the class experience during the term. Needless to say, if you do not attend a class it is impossible for you to contribute to it. In preparation for discussion, you may be asked to write short response papers or send me your thoughts and questions by email. Completion of these exercises will factor in your participation grade. An additional portion of the grade will be based on participation, preparation, and presentation of the **collaborative research project** (10%) at the end of the semester.
 
@@ -41,46 +94,449 @@ Everyone will write **one 3-5 pages essay** (20%) and a **longer 11-14 pages ess
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1: Then**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Introduction**{{< /td-colspan >}} |||
-| 1 | Lecture and Discussion: Where is Immigration History? | &nbsp; |
-| {{< td-colspan 3 >}}**Lawrence**{{< /td-colspan >}} |||
-| 2 | Lecture: European Migrants at the Turn of the Century | &nbsp; |
-| 3 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Chinatown**{{< /td-colspan >}} |||
-| 4 | Lecture: Asian Immigrants at the Turn of the Century | &nbsp; |
-| 5 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Mapping Lawrence, Mapping Chinatown**{{< /td-colspan >}} |||
-| 6 |  {{< br >}}{{< br >}} Multimedia Resources {{< br >}}{{< br >}} Informal Student Presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Film: [_Farmingville_](http://www.farmingvillethemovie.com/) | Short paper due |
-| {{< td-colspan 3 >}}**Tampa**{{< /td-colspan >}} |||
-| 8 | Lecture and Discussion: The World of Caribbean Migration | &nbsp; |
-| {{< td-colspan 3 >}}**The Border**{{< /td-colspan >}} |||
-| 9 | Lecture and Discussion: The Border/Nuestra America | &nbsp; |
-| {{< td-colspan 3 >}}**Chicago**{{< /td-colspan >}} |||
-| 10 | Lecture: Was the Great Migration Great? | &nbsp; |
-| 11 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Hollywood**{{< /td-colspan >}} |||
-| 12 |  {{< br >}}{{< br >}} Discussion (cont.) {{< br >}}{{< br >}} Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/) {{< br >}}{{< br >}}  | Research paper topic due |
-| 13 |  {{< br >}}{{< br >}} Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/) (cont.) {{< br >}}{{< br >}} Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**The Lower East Side**{{< /td-colspan >}} |||
-| 14 | Lecture: Remembering Ethnicity in an Age of Multiculturalism | &nbsp; |
-| 15 | Discussion | &nbsp; |
-| &nbsp; | Trip to New York City | &nbsp; |
-| {{< td-colspan 3 >}}**Part 2: Now**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**The "New" Immigration**{{< /td-colspan >}} |||
-| 16 | Lecture and Discussion: What's New about "New Immigration"? | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Film: _[The New Los Angeles](http://www.californiadreamseries.org/nla.htm)_ {{< br >}}{{< br >}} Brainstorming for Collaborative Research Project {{< br >}}{{< br >}}  | Research paper prospectus due |
-| {{< td-colspan 3 >}}**Manila/Chicago**{{< /td-colspan >}} |||
-| 18 | Lecture: American Imperialism and Filipino/a Experience | &nbsp; |
-| 19 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Collaborative Research Project: U.S. - Mexico Border Relations**{{< /td-colspan >}} |||
-| 20-21 | Discussion | &nbsp; |
-| 22 | Guest Lecturer: Raúl Rubio on the Cuban-American Experience | &nbsp; |
-| 23 | Lawrence | &nbsp; |
-| 24 | Paper Meetings | &nbsp; |
-| 25 | Student Presentations on U.S.-Mexico Border Relations | &nbsp; |
-| {{< td-colspan 3 >}}**Conclusion**{{< /td-colspan >}} |||
-| 26 |  {{< br >}}{{< br >}} Film: [_My Big Fat Greek Wedding_](http://www.imdb.com/title/tt0259446/) {{< br >}}{{< br >}}  | Research paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Then**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture and Discussion: Where is Immigration History?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Lawrence**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: European Migrants at the Turn of the Century
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Chinatown**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Asian Immigrants at the Turn of the Century
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Mapping Lawrence, Mapping Chinatown**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multimedia Resources
+
+Informal Student Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Film: [_Farmingville_](http://www.farmingvillethemovie.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Tampa**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture and Discussion: The World of Caribbean Migration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**The Border**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture and Discussion: The Border/Nuestra America
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Chicago**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Was the Great Migration Great?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Hollywood**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion (cont.)
+
+Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper topic due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/) (cont.)
+
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**The Lower East Side**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Remembering Ethnicity in an Age of Multiculturalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Trip to New York City
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: Now**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**The "New" Immigration**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture and Discussion: What's New about "New Immigration"?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: _[The New Los Angeles](http://www.californiadreamseries.org/nla.htm)_
+
+Brainstorming for Collaborative Research Project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper prospectus due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Manila/Chicago**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: American Imperialism and Filipino/a Experience
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Collaborative Research Project: U.S. - Mexico Border Relations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecturer: Raúl Rubio on the Cuban-American Experience
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Lawrence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Meetings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations on U.S.-Mexico Border Relations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Conclusion**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_My Big Fat Greek Wedding_](http://www.imdb.com/title/tt0259446/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
